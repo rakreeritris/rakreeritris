@@ -1,5 +1,6 @@
 # 💫 About Me:
-Computer Science & Engineering student having a command over Machine Learning with excellent problem-solving skills and ability to perform well in a team. Proficient in C, PYTHON and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.<br>⭐ I’m currently working React js, Express js<br>🤓 Currently learning Full Stack Development<br>❄️ Currently studying Computer Science and Engineering from JSS Academy of Technical Education, Noida<br>🚀 Love to talking about Automation and Innovation!<br>💻 Participated in Open Source Programs like, GSoC 2021 and SWoC 2021.<br>♟️ Play chess in my free time
+Computer Science & Engineering student having a command over MERN stack with excellent problem-solving skills and ability to perform well in a team. Proficient in C, C++ ,REACTJS, NODEJS using JAVASCRIPT, MONGODB and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+.<br>⭐ I’m currently working React js, Express js<br>🤓 Currently learning Full Stack Development<br>❄️ Currently studying Computer Science and Engineering from JSS Academy of Technical Education, Noida<br>🚀 Love to talking about Automation and Innovation!<br>💻 Participated in Open Source Programs like, GSoC 2021 and SWoC 2021.<br>♟️ Play chess in my free time
 
 
 ## 🌐 Socials:
@@ -15,8 +16,6 @@ Computer Science & Engineering student having a command over Machine Learning wi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakreeritris&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=RitikGu51020350)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rakreeritris&icon=0&color=0)](https://visitcount.itsvg.in)
